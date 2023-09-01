@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(211, 166, 37);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 150%;
+    color:rgb(116, 0, 1);
+}
+img {
+    width: 400px;
+}
+p {
+    color:rgb(116, 0, 1);
+    font-size: 18px; 
+}
+.italic-text {
+    font-style: italic;
+}
+.underlined-header {
+    text-decoration: underline;
+}
+.custom-header{
+    font-size: 90%;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.centered {
+    text-align: center;
+}
+.space{
+    border-spacing: 20px;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+}
+
